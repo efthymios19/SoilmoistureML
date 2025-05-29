@@ -1,6 +1,6 @@
 # SoilmoistureML
 This repository contains the Jupyter Notebooks with the scripts used in the publication: 
-- Title: "Temporal and geographic extrapolation of soil moisture using machine learning algorithms."
+- Title: Temporal and geographic extrapolation of soil moisture using machine learning algorithms
 - Authors: Efthymios Chrysanthopoulos, Andreas Kallioras
 - Journal: CATENA, Elsevier
 - DOI: https://doi.org/10.1016/j.catena.2025.109156 
